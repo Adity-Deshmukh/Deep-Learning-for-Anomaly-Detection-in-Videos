@@ -1,14 +1,12 @@
 # Deep-Learning-for-Anomaly-Detection-in-Videos
-This repository belongs to a team of 5 students from BITS-Pilani. The project was done as a part of the PS1 program, at CEERI-Pilani
+This repository belongs to a team of 5 students from BITS-Pilani. The project was done as a part of the PS1 program, at CEERI-Pilani.
 
 ### Authors
-
-
-### TODO
-- [ ] Hyperparameter Tuning
-- [ ] Create large train,dev and test dataset(including preprocessing)
-- [ ] Write code for testing
-- [ ] Visualise Outputs of AutoEncoder
+- Aditya Deshmukh
+- Abhinav Lalwani
+- Savio Jomton
+- Arapan Baranwal
+- Keshav Kabra
 
 
 NOTE: Please fork the notebook before editing, do not modify the original directly
